@@ -12,3 +12,5 @@
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b9ae357186484b44ab2164a87218581940371f99/100%20Days%20of%20AWS/Images/Day%202_3.jpg)
 ### Step 4: You will find the security group with the name datacenter-sg.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b9ae357186484b44ab2164a87218581940371f99/100%20Days%20of%20AWS/Images/Day%202_4.jpg)
+
+-AK
