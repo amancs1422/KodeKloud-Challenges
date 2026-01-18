@@ -4,11 +4,11 @@
 2. The description must be Security group for Nautilus App Servers
 3. Add the inbound rule of type HTTP, with port range of 80. Enter the source CIDR range of 0.0.0.0/0.
 4. Add another inbound rule of type SSH, with port range of 22. Enter the source CIDR range of 0.0.0.0/0.
-##### Step 1: Go to Security groups section on AWS Console.
+### Step 1: Go to Security groups section on AWS Console.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/68f1f9c79ed0795c4ed12954d923a702540c317f/100%20Days%20of%20AWS/Images/Day%202_1.jpg)
-##### Step 2: Fill in the required details for creating the security group.
+### Step 2: Fill in the required details for creating the security group.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b9ae357186484b44ab2164a87218581940371f99/100%20Days%20of%20AWS/Images/Day%202_2.jpg)
-##### Step 3: Add the required inbound rules as per the requirement.
+### Step 3: Add the required inbound rules as per the requirement.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b9ae357186484b44ab2164a87218581940371f99/100%20Days%20of%20AWS/Images/Day%202_3.jpg)
-##### Step 4: You will find the security group with the name datacenter-sg.
+### Step 4: You will find the security group with the name datacenter-sg.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b9ae357186484b44ab2164a87218581940371f99/100%20Days%20of%20AWS/Images/Day%202_4.jpg)
