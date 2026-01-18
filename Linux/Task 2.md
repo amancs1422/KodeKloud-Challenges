@@ -15,7 +15,6 @@ id stark
 ```
 sudo groupadd nautilus_admin_users
 ```
-![]()
 ##### Step 3: Create and add the user to the group created.
 ```
 sudo useradd -G nautilus_admin_users stark
