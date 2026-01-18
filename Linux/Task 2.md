@@ -10,7 +10,7 @@
 ```
 id stark
 ```
-![]()
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/d0b35affb531022a4622a35804915d65efb40e8a/Linux/Images/Task%202_1.jpg)
 ##### Step 2: Create the required group.
 ```
 sudo groupadd nautilus_admin_users
@@ -19,5 +19,5 @@ sudo groupadd nautilus_admin_users
 ```
 sudo useradd -G nautilus_admin_users stark
 ```
-![]()
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/d0b35affb531022a4622a35804915d65efb40e8a/Linux/Images/Task%202_2.jpg)
 ##### Step 4: Repeat same steps on all three app servers.
