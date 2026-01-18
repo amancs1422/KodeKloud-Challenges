@@ -10,7 +10,7 @@ sudo vi /etc/ssh/sshd_config
 ```
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/master/100%20Days%20of%20DevOps/Images/Day%203_3.jpg)
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/master/100%20Days%20of%20DevOps/Images/Day%203_2.jpg)
-![]ps://github.com/amancs1422/KodeKloud-Challenges/blob/master/100%20Days%20of%20DevOps/Images/Day%203_4.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/master/100%20Days%20of%20DevOps/Images/Day%203_4.jpg)
 #### Step 2: Restart sshd service.
 ```
 sudo systemctl sshd
