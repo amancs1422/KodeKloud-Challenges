@@ -6,7 +6,7 @@
 ```
 sudo useradd -s /sbin/nologin anita
 ```
-![](https://github.com/amancs1422/KodeKloud-Challenges/blob/239ba94766d7eafe7c33239276ac7d4cbd6147c0/Linux/Images/Task%203_1.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/239ba94766d7eafe7c33239276ac7d4cbd6147c0/Linux/Images/Task%203_1.jpg)<br>
 -s prefix is used to specify a shell for the username.
 ##### Step 2: Verify the change using the following command.
 ```
