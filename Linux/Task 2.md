@@ -10,12 +10,15 @@
 ```
 id stark
 ```
+![]()
 ##### Step 2: Create the required group.
 ```
 sudo groupadd nautilus_admin_users
 ```
+![]()
 ##### Step 3: Create and add the user to the group created.
 ```
 sudo useradd -G nautilus_admin_users stark
 ```
+![]()
 ##### Step 4: Repeat same steps on all three app servers.
