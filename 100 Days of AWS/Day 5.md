@@ -6,9 +6,11 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 *	Name of the volume should be xfusion-volume.
 *	Volume type must be gp3.
 *	Volume size must be 2 GiB.
-### Step 1:
+### Step 1: Search for volume and access the following EC2 dashboard. Click on create volume button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/e15089e4f42671dc08bf804c963df8b99f72bc10/100%20Days%20of%20AWS/Images/Day%205_1.jpg)
-### Step 2:
+### Step 2: Fill in the volume details as per the requirement and click on create volume button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/e15089e4f42671dc08bf804c963df8b99f72bc10/100%20Days%20of%20AWS/Images/Day%205_2.jpg)
-### Step 3:
+### Step 3: The volume will be created and you can edit the name of the volume here to fit the lab requirement.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/e15089e4f42671dc08bf804c963df8b99f72bc10/100%20Days%20of%20AWS/Images/Day%205_3.jpg)
+
+-AK
