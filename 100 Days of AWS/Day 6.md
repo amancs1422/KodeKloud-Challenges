@@ -13,8 +13,8 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 
 5) Attach the default (available by default) security group.
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_1.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_2.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_3.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_4.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_5.jpg)
