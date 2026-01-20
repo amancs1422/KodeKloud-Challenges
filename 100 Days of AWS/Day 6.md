@@ -12,3 +12,9 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 4) Create a new RSA key pair named nautilus-kp.
 
 5) Attach the default (available by default) security group.
+
+![]()
+![]()
+![]()
+![]()
+![]()

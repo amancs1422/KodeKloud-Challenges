@@ -6,3 +6,6 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 *	Name of the volume should be xfusion-volume.
 *	Volume type must be gp3.
 *	Volume size must be 2 GiB.
+![]()
+![]()
+![]()
