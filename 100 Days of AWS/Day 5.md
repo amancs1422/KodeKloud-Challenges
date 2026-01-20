@@ -6,6 +6,6 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 *	Name of the volume should be xfusion-volume.
 *	Volume type must be gp3.
 *	Volume size must be 2 GiB.
-![]()
-![]()
-![]()
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/e15089e4f42671dc08bf804c963df8b99f72bc10/100%20Days%20of%20AWS/Images/Day%205_1.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/e15089e4f42671dc08bf804c963df8b99f72bc10/100%20Days%20of%20AWS/Images/Day%205_2.jpg)
+![](https://github.com/amancs1422/KodeKloud-Challenges/blob/e15089e4f42671dc08bf804c963df8b99f72bc10/100%20Days%20of%20AWS/Images/Day%205_3.jpg)
