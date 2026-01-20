@@ -12,9 +12,15 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 4) Create a new RSA key pair named nautilus-kp.
 
 5) Attach the default (available by default) security group.
-
+### Step 1:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_1.jpg)
+### Step 2:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_2.jpg)
+### Step 3:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_3.jpg)
+### Step 4:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_4.jpg)
+### Step 5:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_5.jpg)
+
+-AK
