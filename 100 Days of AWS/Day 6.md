@@ -18,9 +18,9 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_2.jpg)
 ### Step 3: Fill in the key pair name and choose the RSA radio button as per the lab requirement, then click on "Create Key Pair" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_3.jpg)
-### Step 4:
+### Step 4: Select the existing default security group as per lab requirement.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_4.jpg)
-### Step 5:
+### Step 5: Once you click on launch instance the required instance will be created.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/06f649af4d8cefb71528eae64e00ee3ce540320b/100%20Days%20of%20AWS/Images/Day%206_5.jpg)
 
 -AK
