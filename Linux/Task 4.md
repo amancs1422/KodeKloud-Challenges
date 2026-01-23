@@ -13,6 +13,6 @@ sudo useradd -M javed
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/0f9f910ec94c46ae572ec28e55d305708761c541/Linux/Images/Task%204_2.jpg)
 ### Step 3 : You can check and ensure the changes are made as per requirement.
 ```
-getent passwr javed
+getent passwd javed
 ```
 -AK
