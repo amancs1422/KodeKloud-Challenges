@@ -6,7 +6,7 @@
 ssh-keygen -t rsa
 ```
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ec07e056d722345fe6874ed1d59a438e993ff609/100%20Days%20of%20DevOps/Images/Day%207_1.jpg)
-## Step 2 : 
+## Step 2 : Click enter when asked for file-location and Click enter to leave the paraphrase blank(Lab will fail if you set a passphrase.)
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ec07e056d722345fe6874ed1d59a438e993ff609/100%20Days%20of%20DevOps/Images/Day%207_2.jpg)
 ## Step 3 : Copy the key pair to remote servers.
 ```
