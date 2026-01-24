@@ -1,3 +1,4 @@
+# Day 8 : Enable Stop Protection for EC2 Instance
 ## Step 1 : Access the EC2 dashboard in the AWS Management Console.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/2930be822759e5298386ac1620e8b4a9b2002083/100%20Days%20of%20AWS/Images/Day%208_1.jpg)
 ## Step 2 : Find the instance as per the lab requirements.
