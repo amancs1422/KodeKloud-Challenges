@@ -1,9 +1,19 @@
+# Day 11 : Attach Elastic Network Interface to EC2 Instance
+## Step 1 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_1.jpg)
+## Step 2 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_2.jpg)
+## Step 3 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_3.jpg)
+## Step 4 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_4.jpg)
+## Step 5 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_5.jpg)
+## Step 6 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_6.jpg)
+## Step 7 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_7.jpg)
+## Step 8 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_8.jpg)
+## Step 9 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_9.jpg)
