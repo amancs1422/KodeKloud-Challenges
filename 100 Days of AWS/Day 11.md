@@ -19,7 +19,7 @@ An instance named datacenter-ec2 and an elastic network interface named datacent
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_7.jpg)
 ## Step 8 : You will see that the "datacenter-eni" interface is showing "attached" status.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_8.jpg)
-## Step 9 : Wait for sometime and you will see the 2/2 checks passed which fulfils the last requirement of the lab(Please make sure instance initialisation has been completed before submitting this task).
+## Step 9 : Start the instance and wait for sometime and you will see the 2/2 checks passed which fulfils the last requirement of the lab(Please make sure instance initialisation has been completed before submitting this task).
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_9.jpg)
 
 -AK
