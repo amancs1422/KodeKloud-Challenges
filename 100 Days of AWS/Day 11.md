@@ -5,11 +5,11 @@
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_2.jpg)
 ## Step 3 : Stop the instance otherwise "Attach Network Interface" option will not be available.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_3.jpg)
-## Step 4 : 
+## Step 4 : Once the instance is completely stopped click on the "Attach Network Interface" option.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_4.jpg)
-## Step 5 : 
+## Step 5 : Drop-down and select the VPC and datacenter-eni interface, then scroll down and click on attach.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_5.jpg)
-## Step 6 : 
+## Step 6 : Select the datacenter-ec2 instance and scroll down to access the "Networking" section.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_6.jpg)
 ## Step 7 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/4eda5ef59ff39bd0df5014aaaf68b29db45e85bc/100%20Days%20of%20AWS/Images/Day%2011_7.jpg)
