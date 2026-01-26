@@ -6,9 +6,9 @@ An instance named “xfusion-ec2” and a volume named “xfusion-volume” alre
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_1.jpg)
 ## Step 2 : Find the “xfusion-ec2” EC2 instance to which the “xfusion-volume” volume needs to be attached.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_2.jpg)
-## Step 3 : 
+## Step 3 : Scroll down to the volume section and find the to be attached “xfusion-volume”.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_3.jpg)
-## Step 4 : 
+## Step 4 : Select the “xfusion-ec2” EC2 instance and click on "Attach Volume".
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_4.jpg)
 ## Step 5 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_5.jpg)
