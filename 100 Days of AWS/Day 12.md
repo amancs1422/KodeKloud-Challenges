@@ -12,5 +12,7 @@ An instance named “xfusion-ec2” and a volume named “xfusion-volume” alre
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_4.jpg)
 ## Step 5 : Select the “xfusion-volume” from drop-down menu and also select "/dev/sdb" as the device name, then click on "Attach" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_5.jpg)
-## Step 6 : 
+## Step 6 : If you select the “xfusion-ec2” EC2 instance and access the Storage section you will find the “xfusion-volume” in attached status with device name as "/dev/sdb" fulfilling the lab requirements.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/dc61bdab994eaa76c28d06c98c282334af28d1ff/100%20Days%20of%20AWS/Images/Day%2012_6.jpg)
+
+-AK
