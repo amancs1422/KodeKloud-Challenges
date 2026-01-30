@@ -5,9 +5,9 @@
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/560ef942fa280b2edb21c6c94cbc26169afee56a/100%20Days%20of%20AWS/Images/Day%2014_1.jpg)
 ## Step 2 : Find the "datacenter-ec2" instance that needs to be deleted.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/560ef942fa280b2edb21c6c94cbc26169afee56a/100%20Days%20of%20AWS/Images/Day%2014_2.jpg)
-## Step 3 : 
+## Step 3 : Select the "datacenter-ec2" instance and click on "Terminate (delete) instance" button as shown below.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/560ef942fa280b2edb21c6c94cbc26169afee56a/100%20Days%20of%20AWS/Images/Day%2014_3.jpg)
-## Step 4 : 
+## Step 4 : Wait for some time and the instance will be terminated.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/560ef942fa280b2edb21c6c94cbc26169afee56a/100%20Days%20of%20AWS/Images/Day%2014_4.jpg)
 
 -AK
