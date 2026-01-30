@@ -1,5 +1,10 @@
+## Step 1 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_1.jpg)
+## Step 2 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_2.jpg)
+## Step 3 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_3.jpg)
+## Step 4 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_4.jpg)
+## Step 5 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_5.jpg)
