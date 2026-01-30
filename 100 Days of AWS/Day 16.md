@@ -1,10 +1,10 @@
 # Day 16: Create IAM User
 For this task, create an IAM user named iamuser_anita.
-## Step 1 : 
+## Step 1 : Access the IAM Dashboard in AWS Management Console.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/609a58cfe01fd6dcb743428049954a560aa79881/100%20Days%20of%20AWS/Images/Day%2016_1.jpg)
-## Step 2 : 
+## Step 2 : Goto Users section and click on "Create User" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/609a58cfe01fd6dcb743428049954a560aa79881/100%20Days%20of%20AWS/Images/Day%2016_2.jpg)
-## Step 3 : 
+## Step 3 : Provide the IAM user name and keep rest of the fields as default and user will be created.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/609a58cfe01fd6dcb743428049954a560aa79881/100%20Days%20of%20AWS/Images/Day%2016_3.jpg)
 
 -AK
