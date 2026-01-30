@@ -11,3 +11,5 @@ Name of the AMI should be devops-ec2-ami, make sure AMI is in available state.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_4.jpg)
 ## Step 5 : The "devops-ec2-ami" image will be created and after a while the status will turn to "Available".
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/b3d40d0fbda5773406364c342607731108fa457d/100%20Days%20of%20AWS/Images/Day%2013_5.jpg)
+
+-AK
