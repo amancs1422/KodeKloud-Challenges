@@ -8,7 +8,7 @@ An IAM user named “iamuser_john” and a policy named “iampolicy_john” alr
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_3.jpg)
 ## Step 4 : Access the “iamuser_john” user and click on "Add Permissions" as shown below.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_4.jpg)
-## Step 5 : 
+## Step 5 : Select the "Attach policies directly" radio button and select the “iampolicy_john” policy. Then click on "Next" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_5.jpg)
 ## Step 6 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_6.jpg)
