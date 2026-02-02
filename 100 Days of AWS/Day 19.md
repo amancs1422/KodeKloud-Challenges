@@ -2,7 +2,7 @@
 An IAM user named “iamuser_john” and a policy named “iampolicy_john” already exist. Attach the IAM policy “iampolicy_john” to the IAM user “iamuser_john”.
 ## Step 1 : Access the IAM Dashboard as shown below in the AWS Management Console.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_1.jpg)
-## Step 2 : 
+## Step 2 : Access the users section and confirm that “iamuser_john” user is available.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_2.jpg)
 ## Step 3 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/ba675802e4f04f34898f776b93687c3df14b6517/100%20Days%20of%20AWS/Images/Day%2019_3.jpg)
