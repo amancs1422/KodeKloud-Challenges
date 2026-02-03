@@ -9,7 +9,7 @@ Create an IAM role as below:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_2.jpg)
 ## Step 3 : Select "AWS Service" as the trusted entity, select EC2 radio button and then click on "Next" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_3.jpg)
-## Step 4 : 
+## Step 4 : Add the "iampolicy_siva" policy to this role and click on "Next" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_4.jpg)
 ## Step 5 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_5.jpg)
