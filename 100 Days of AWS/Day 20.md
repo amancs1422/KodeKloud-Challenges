@@ -11,9 +11,9 @@ Create an IAM role as below:
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_3.jpg)
 ## Step 4 : Add the "iampolicy_siva" policy to this role and click on "Next" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_4.jpg)
-## Step 5 : 
+## Step 5 : Fill in "iamrole_siva" as the role name, scroll down and click on "Create Role" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_5.jpg)
-## Step 6 : 
+## Step 6 : The role is attached and you can check and ensure "iampolicy_siva" policy is attached.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/c0a427f87ab290034a358676a91de069975c60da/100%20Days%20of%20AWS/Images/Day%2020_6.jpg)
 
 
