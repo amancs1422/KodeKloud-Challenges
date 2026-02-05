@@ -5,9 +5,9 @@
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/9f50bdc238c3541c39f6a31d7905065dda0b284f/100%20Days%20of%20AWS/Images/Day%2021_1.jpg)
 ## Step 2 : Click on "Launch Instances" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/9f50bdc238c3541c39f6a31d7905065dda0b284f/100%20Days%20of%20AWS/Images/Day%2021_2.jpg)
-## Step 3 : Fill in the name, choose the instance type and click on "Launch Instances" button, and the instance will be created.
+## Step 3 : Fill in the name, choose the instance type and click on "Launch Instances" button, the instance will be created.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/9f50bdc238c3541c39f6a31d7905065dda0b284f/100%20Days%20of%20AWS/Images/Day%2021_3.jpg)
-## Step 4 : 
+## Step 4 : Goto the "Elastic IPs" section and click on "Associate Elastic IP address" button.
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/9f50bdc238c3541c39f6a31d7905065dda0b284f/100%20Days%20of%20AWS/Images/Day%2021_4.jpg)
 ## Step 5 : 
 ![](https://github.com/amancs1422/KodeKloud-Challenges/blob/9f50bdc238c3541c39f6a31d7905065dda0b284f/100%20Days%20of%20AWS/Images/Day%2021_5.jpg)
