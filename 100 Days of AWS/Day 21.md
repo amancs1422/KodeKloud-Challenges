@@ -1,3 +1,4 @@
+# Day 21: Setting Up an EC2 Instance with an Elastic IP for Application Hosting
 ## Step 1 : 
 ![]()
 ## Step 2 : 
